@@ -31,9 +31,9 @@ This is my second iOS project, created to strengthen my skills in networking, st
 
 ---
 
-##  Getting Started
+#  Getting Started
 
-### 1. Clone the repository
+# 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/WeatherApp.git
 
