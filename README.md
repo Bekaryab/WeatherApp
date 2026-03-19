@@ -4,7 +4,7 @@ A beautifully designed iOS weather application built using modern **SwiftUI** an
 This is my second iOS project, created to strengthen my skills in networking, state management, and Swift concurrency.
 
 ---
-## ✨ Features
+##  Features
 
 - 🌤 **Current Weather**  
   Get real-time temperature, weather conditions, and dynamic weather icons for any city.
@@ -18,7 +18,7 @@ This is my second iOS project, created to strengthen my skills in networking, st
   Implemented a custom `AppRouter` using `@EnvironmentObject` for programmatic navigation.
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **UI Framework:** SwiftUI  
 - **Architecture:** MVVM (Model-View-ViewModel)  
@@ -31,7 +31,7 @@ This is my second iOS project, created to strengthen my skills in networking, st
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 ```bash
@@ -51,12 +51,12 @@ private let apiKey = "YOUR_API_KEY_HERE"
 ---
 
 
-## 🎬 App Demo
+##  App Demo
 
 <p align="center">
   https://github.com/user-attachments/assets/27250df4-35e2-42f8-aaa8-3f261a04a635
 </p>
-## 📱 Preview
+##  Preview
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3534bfa5-b758-4546-a069-49ab5d74d78c" width="250">
