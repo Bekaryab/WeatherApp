@@ -51,11 +51,9 @@ private let apiKey = "YOUR_API_KEY_HERE"
 ---
 
 
-##  App Demo
+## 🎬 App Demo
 
-<p align="center">
-  https://github.com/user-attachments/assets/27250df4-35e2-42f8-aaa8-3f261a04a635
-</p>
+https://github.com/user-attachments/assets/27250df4-35e2-42f8-aaa8-3f261a04a635
 ##  Preview
 
 <p align="center">
