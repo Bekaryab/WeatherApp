@@ -54,11 +54,11 @@ private let apiKey = "YOUR_API_KEY_HERE"
 ## 🎬 App Demo
 
 https://github.com/user-attachments/assets/27250df4-35e2-42f8-aaa8-3f261a04a635
-##  Preview
+## Screenshots & Demo
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3534bfa5-b758-4546-a069-49ab5d74d78c" width="250">
-  <img src="https://github.com/user-attachments/assets/a730067b-e248-44b0-b98d-8ebeab6a1ac0" width="250">
-  <img src="https://github.com/user-attachments/assets/a8abde14-e746-4e78-b461-f2054ef1260b" width="250">
-  <img src="https://github.com/user-attachments/assets/c9fadf13-10b1-475a-84b4-3fec0a292659" width="250">
+  <img src="https://github.com/user-attachments/assets/89c312cd-35d2-49c2-859d-65a23b9d9168" width="250">
+  <img src="https://github.com/user-attachments/assets/4178e768-a5d1-485a-a274-db6c2e2e7a6b" width="250">
+  <img src="https://github.com/user-attachments/assets/8adc1b7f-cd56-42f6-a527-2e7a721c1852" width="250">
 </p>
+
